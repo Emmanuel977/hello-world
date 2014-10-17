@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-An introductory program
+A comit message. This is supposed to be a comit message describing my changes.
